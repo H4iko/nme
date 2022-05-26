@@ -12,4 +12,4 @@
 6. бизнес планы;
 7. управленческий учёт
 
-![alt text](./img/Audi_80_V_B4_1991-19.png)
+![myphoto](https://github.com/H4iko/nme/raw/main/img/Audi_80_V_B4_1991-19.jpg)
